@@ -1,0 +1,639 @@
+{
+    "abatacepte": [
+        "250 mg (pó para solução injetável)",
+        "125 mg/mL (solução injetável)"
+    ],
+    "acetato de ciproterona": [
+        "50 mg (comprimido)"
+    ],
+    "acetato de desmopressina": [
+        "0,2 mg (comprimido)"
+    ],
+    "acetato de fludrocortisona": [
+        "0,1 mg (comprimido)"
+    ],
+    "acetato de glatirâmer": [
+        "20 mg (solução injetável)",
+        "40 mg (solução injetável)"
+    ],
+    "acetato de gosserrelina": [
+        "10,8 mg (implante subcutâneo)"
+    ],
+    "acetato de lanreotida": [
+        "60 mg (solução injetável)",
+        "90 mg (solução injetável)",
+        "120 mg (solução injetável)"
+    ],
+    "acetato de leuprorrelina": [
+        "3,75 mg (pó para suspensão injetável)",
+        "11,25 mg (pó para suspensão injetável)"
+    ],
+    "acetato de octreotida": [
+        "10 mg (pó para suspensão injetável)",
+        "20 mg (pó para suspensão injetável)",
+        "30 mg (pó para suspensão injetável)"
+    ],
+    "acetazolamida": [
+        "250 mg (comprimido)"
+    ],
+    "acitretina": [
+        "10 mg (cápsula)",
+        "25 mg (cápsula)"
+    ],
+    "adalimumabe": [
+        "40 mg (solução injetável)"
+    ],
+    "alfacalcidol": [
+        "0,25 mcg (cápsula mole)",
+        "1 mcg (cápsula mole)"
+    ],
+    "alfadornase": [
+        "1 mg/mL (solução para inalação (ampola com 2,5 mL))"
+    ],
+    "alfaelosulfase": [
+        "5 mg (solução injetável)"
+    ],
+    "alfaepoetina": [
+        "1.000 UI (solução injetável)",
+        "2.000 UI (solução injetável)",
+        "3.000 UI (pó para solução injetável)",
+        "3.000 UI (solução injetável)",
+        "4.000 UI (pó para solução injetável)",
+        "4.000 UI (solução injetável)",
+        "10.000 UI (pó para solução injetável)",
+        "10.000 UI (solução injetável)"
+    ],
+    "alfainterferona 2b": [
+        "3.000.000 UI (pó para solução injetável)",
+        "5.000.000 UI (pó para solução injetável)",
+        "10.000.000 UI (pó para solução injetável)"
+    ],
+    "alfapeginterferona 2a": [
+        "180 mcg (solução injetável)"
+    ],
+    "alfapeginterferona 2b": [
+        "118,4 mcg (80 mcg/0,5 mL após reconstituição) (pó para solução injetável)",
+        "148 mcg (100 mcg/0,5 mL após reconstituição) (pó para solução injetável)",
+        "177,6 mcg (120 mcg/0,5 mL após reconstituição) (pó para solução injetável)"
+    ],
+    "alfataliglicerase": [
+        "200 U (pó para solução injetável)"
+    ],
+    "alfavelaglicerase": [
+        "200 U (pó para solução injetável)",
+        "400 U (pó para solução injetável)"
+    ],
+    "ambrisentana": [
+        "5 mg (comprimido)",
+        "10 mg (comprimido)"
+    ],
+    "atorvastatina cálcica": [
+        "10 mg (comprimido)",
+        "20 mg (comprimido)",
+        "40 mg (comprimido)",
+        "80 mg (comprimido)"
+    ],
+    "azatioprina": [
+        "50 mg (comprimido)"
+    ],
+    "betainterferona 1a": [
+        "22 mcg (6.000.000 UI) (comprimido)",
+        "30 mcg (6.000.000 UI) (solução injetável)",
+        "44 mcg (12.000.000 UI) (solução injetável)"
+    ],
+    "betainterferona 1b": [
+        "300 mcg (9.600.000 UI) (pó para solução injetável)"
+    ],
+    "bezafibrato": [
+        "200 mg (comprimido)",
+        "400 mg (comprimido de liberação prolongada)"
+    ],
+    "bimatoprosta": [
+        "0,3 mg/mL (0,03%) (solução oftálmica (frasco com 3 mL))"
+    ],
+    "biotina": [
+        "2,5 mg (cápsula)"
+    ],
+    "bosentana": [
+        "62,5 mg (comprimido)",
+        "125 mg (comprimido)"
+    ],
+    "brinzolamida": [
+        "10 mg/mL (suspensão oftálmica (frasco com 5 mL))"
+    ],
+    "brometo de piridostigmina": [
+        "60 mg (comprimido)"
+    ],
+    "bromidrato de fenoterol": [
+        "100 mcg/dose (solução aerossol (frasco com 200 doses))"
+    ],
+    "bromidrato de galantamina": [
+        "8 mg (cápsula de liberação prolongada)",
+        "16 mg (cápsula de liberação prolongada)",
+        "24 mg (cápsula de liberação prolongada)"
+    ],
+    "budesonida": [
+        "200 mcg (aerossol bucal)",
+        "200 mcg (cápsula para inalação)",
+        "200 mcg (pó para inalação)",
+        "400 mcg (cápsula para inalação)"
+    ],
+    "cabergolina": [
+        "0,5 mg (comprimido)"
+    ],
+    "calcipotriol": [
+        "50 mcg/g (0,005%) (pomada (bisnaga com 30 g))"
+    ],
+    "calcitonina": [
+        "50 UI (solução injetável)",
+        "100 UI (solução injetável)",
+        "200 UI/dose (solução spray nasal (frasco com 2 mL))"
+    ],
+    "calcitriol": [
+        "1 mcg/mL (solução injetável (ampola com 1 mL))",
+        "0,25 mcg (cápsula mole)"
+    ],
+    "certolizumabe pegol": [
+        "200 mg (solução injetável)"
+    ],
+    "ciclofosfamida": [
+        "50 mg (comprimido)"
+    ],
+    "ciclosporina": [
+        "10 mg (cápsula mole)",
+        "25 mg (cápsula mole)",
+        "50 mg (cápsula mole)",
+        "100 mg (cápsula mole)",
+        "50 mg (solução injetável)",
+        "100 mg/mL (solução oral (frasco com 50 mL))"
+    ],
+    "ciprofibrato": [
+        "100 mg (comprimido)"
+    ],
+    "citrato de sildenafila": [
+        "20 mg (comprimido)",
+        "25 mg (comprimido)",
+        "50 mg (comprimido)"
+    ],
+    "clobazam": [
+        "10 mg (comprimido)",
+        "20 mg (comprimido)"
+    ],
+    "clopidogrel": [
+        "75 mg (comprimido)"
+    ],
+    "cloridrato de amantadina": [
+        "100 mg (comprimido)"
+    ],
+    "cloridrato de cinacalcete": [
+        "30 mg (comprimido)",
+        "60 mg (comprimido)"
+    ],
+    "cloridrato de donepezila": [
+        "5 mg (comprimido)",
+        "10 mg (comprimido)"
+    ],
+    "cloridrato de dorzolamida": [
+        "20 mg/mL (solução oftálmica (frasco com 5 mL))"
+    ],
+    "cloridrato de metadona": [
+        "5 mg (comprimido)",
+        "10 mg (comprimido)",
+        "10 mg/mL (solução injetável (ampola com 1 mL))"
+    ],
+    "cloridrato de pilocarpina": [
+        "20 mg/mL (2%) (solução oftálmica (frasco com 10 mL))"
+    ],
+    "cloridrato de raloxifeno": [
+        "60 mg (comprimido)"
+    ],
+    "cloridrato de selegilina": [
+        "5 mg (comprimido)",
+        "10 mg (comprimido)"
+    ],
+    "cloridrato de sevelâmer": [
+        "800 mg (comprimido)"
+    ],
+    "cloridrato de triexifenidil": [
+        "5 mg (comprimido)"
+    ],
+    "cloridrato de ziprasidona": [
+        "40 mg (cápsula)",
+        "80 mg (cápsula)"
+    ],
+    "clozapina": [
+        "25 mg (comprimido)",
+        "100 mg (comprimido)"
+    ],
+    "complemento alimentar para paciente fenilcetonúrico maior de 1 ano (fórmula de aminoácidos isenta de fenilalanina)": [
+        "N/A (N/A)"
+    ],
+    "daclatasvir": [
+        "30 mg (comprimido)",
+        "60 mg (comprimido)"
+    ],
+    "danazol": [
+        "100 mg (cápsula)",
+        "200 mg (cápsula)"
+    ],
+    "deferasirox": [
+        "125 mg (comprimido para suspensão)",
+        "250 mg (comprimido para suspensão)",
+        "500 mg (comprimido para suspensão)"
+    ],
+    "deferiprona": [
+        "500 mg (comprimido)"
+    ],
+    "dextrotartarato de brimonidina": [
+        "2 mg/mL (solução oftálmica (frasco com 5 mL))"
+    ],
+    "dicloridrato de pramipexol": [
+        "0,125 mg (comprimido)",
+        "0,25 mg (comprimido)",
+        "1 mg (comprimido)"
+    ],
+    "dicloridrato de sapropterina": [
+        "100 mg (comprimido)"
+    ],
+    "difosfato de cloroquina": [
+        "150 mg (comprimido)"
+    ],
+    "eculizumabe": [
+        "10 mg/ml (solução para diluição para infusão)"
+    ],
+    "eltrombopague olamina": [
+        "25 mg (comprimido)",
+        "50 mg (comprimido)"
+    ],
+    "enoxaparina sódica": [
+        "40 mg/0,4 ml (solução injetável)"
+    ],
+    "entacapona": [
+        "200 mg (comprimido)"
+    ],
+    "entecavir": [
+        "0,5 mg (comprimido)",
+        "1 mg (comprimido)"
+    ],
+    "etanercepte": [
+        "25 mg (solução injetável)",
+        "50 mg (solução injetável)"
+    ],
+    "etofibrato": [
+        "500 mg (cápsula)"
+    ],
+    "etossuximida": [
+        "50 mg/mL (xarope (frasco com 120 mL))"
+    ],
+    "everolimo": [
+        "0,5 mg (comprimido)",
+        "0,75 mg (comprimido)",
+        "1 mg (comprimido)"
+    ],
+    "fenofibrato": [
+        "200 mg (cápsula)",
+        "250 mg (cápsula de liberação retardada)"
+    ],
+    "filgrastim": [
+        "300 mcg (solução injetável)"
+    ],
+    "fingolimode": [
+        "0,5 mg (cápsula)"
+    ],
+    "fluvastatina": [
+        "20 mg (cápsula)",
+        "40 mg (cápsula)"
+    ],
+    "fosfato de codeína": [
+        "3 mg/mL (solução oral (frasco com 120 mL))",
+        "30 mg (comprimido)",
+        "60 mg (comprimido)",
+        "30 mg/mL (solução injetável (ampola com 2 mL))"
+    ],
+    "fumarato de dimetila": [
+        "120 mg (cápsula)",
+        "240 mg (cápsula)"
+    ],
+    "fumarato de formoterol": [
+        "12 mcg (cápsula para inalação)",
+        "12 mcg (pó para inalação)"
+    ],
+    "fumarato de formoterol + budesonida": [
+        "6 mcg + 200 mcg (cápsula para inalação)",
+        "6 mcg + 200 mcg (pó para inalação)",
+        "12 mcg + 400 mcg (cápsula para inalação)",
+        "12 mcg + 400 mcg (pó para inalação)"
+    ],
+    "fumarato de tenofovir desoproxila": [
+        "300 mg (comprimido)"
+    ],
+    "gabapentina": [
+        "300 mg (cápsula)",
+        "400 mg (cápsula)"
+    ],
+    "galsulfase": [
+        "5 mg (solução injetável)"
+    ],
+    "genfibrozila": [
+        "600 mg (comprimido)",
+        "900 mg (comprimido)"
+    ],
+    "golimumabe": [
+        "50 mg (solução injetável)"
+    ],
+    "hemifumarato de quetiapina": [
+        "25 mg (comprimido)",
+        "100 mg (comprimido)",
+        "200 mg (comprimido)",
+        "300 mg (comprimido)"
+    ],
+    "hidroxiureia": [
+        "500 mg (cápsula)"
+    ],
+    "hidróxido de alumínio": [
+        "230 mg (comprimido)",
+        "300 mg (comprimido)",
+        "61,5 mg/mL (suspensão oral (frasco com 100 mL, 150 mL ou 240 mL))"
+    ],
+    "idursulfase": [
+        "2 mg/mL (solução injetável)"
+    ],
+    "iloprosta": [
+        "10 mcg/mL (solução para nebulização)"
+    ],
+    "imiglucerase": [
+        "200 U (pó para solução injetável)",
+        "400 U (pó para solução injetável)"
+    ],
+    "imunoglobulina humana": [
+        "0,5 g (pó para solução injetável)",
+        "0,5 g (solução injetável)",
+        "1 g (pó para solução injetável)",
+        "1 g (solução injetável)",
+        "2,5 g (pó para solução injetável)",
+        "2,5 g (solução injetável)",
+        "3 g (pó para solução injetável)",
+        "3 g (solução injetável)",
+        "5 g (pó para solução injetável)",
+        "5 g (solução injetável)",
+        "6 g (pó para solução injetável)"
+    ],
+    "imunoglobulina humana anti-hepatite B": [
+        "100 UI (solução injetável)",
+        "500 UI (solução injetável)",
+        "600 UI (solução injetável)"
+    ],
+    "infliximabe": [
+        "100 mg (pó para solução injetável)"
+    ],
+    "insulina análoga de ação prolongada": [
+        "100 UI/ml ((frasco com 10 mL) solução injetável com sistema de aplicação)"
+    ],
+    "insulina análoga de ação rápida": [
+        "100 UI/ml (solução injetável com sistema de aplicação)"
+    ],
+    "isotretinoína": [
+        "10 mg (cápsula mole)",
+        "20 mg (cápsula mole)"
+    ],
+    "lamivudina": [
+        "10 mg/mL (solução oral (frasco de 240 mL))",
+        "150 mg (comprimido)"
+    ],
+    "lamotrigina": [
+        "25 mg (comprimido)",
+        "50 mg (comprimido)",
+        "100 mg (comprimido)"
+    ],
+    "laronidase": [
+        "0,58 mg/mL (solução injetável)"
+    ],
+    "latanoprosta": [
+        "0,05 mg/mL (solução oftálmica (frasco com 2,5 mL))"
+    ],
+    "leflunomida": [
+        "20 mg (comprimido)"
+    ],
+    "levetiracetam": [
+        "250 mg (comprimido)",
+        "750 mg (comprimido)",
+        "100 mg/ml (solução oral)"
+    ],
+    "lovastatina": [
+        "10 mg (comprimido)",
+        "20 mg (comprimido)",
+        "40 mg (comprimido)"
+    ],
+    "maleato de timolol": [
+        "5 mg/mL (0,5%) (solução oftálmica (frasco com 5 mL))"
+    ],
+    "memantina": [
+        "10 mg (comprimido)"
+    ],
+    "mesalazina": [
+        "400 mg (comprimido)",
+        "500 mg (comprimido de liberação prolongada)",
+        "800 mg (comprimido)",
+        "250 mg (supositório retal)",
+        "500 mg (supositório retal)",
+        "1.000 mg (supositório retal)",
+        "10 mg/mL (enema retal (frasco com 100 mL) )",
+        "30 mg/mL (enema retal (frasco com 100 mL))"
+    ],
+    "mesilato de bromocriptina": [
+        "2,5 mg (comprimido)"
+    ],
+    "mesilato de desferroxamina": [
+        "500 mg (pó para solução injetável)"
+    ],
+    "mesilato de rasagilina": [
+        "1 mg (comprimido)"
+    ],
+    "metilprednisolona": [
+        "500 mg (pó para solução injetável)"
+    ],
+    "metotrexato": [
+        "25 mg/mL (solução injetável (frasco com 2 mL))",
+        "2,5 mg (comprimido)"
+    ],
+    "micofenolato de mofetila": [
+        "500 mg (comprimido)"
+    ],
+    "micofenolato de sódio": [
+        "180 mg (comprimido)",
+        "360 mg (comprimido)"
+    ],
+    "miglustate": [
+        "100 mg (cápsula)"
+    ],
+    "naproxeno": [
+        "250 mg (comprimido)",
+        "500 mg (comprimido)"
+    ],
+    "natalizumabe": [
+        "20 mg/mL (solução injetável)"
+    ],
+    "nusinersena": [
+        "2,4 mg/ml (solução injetável)"
+    ],
+    "octreotida": [
+        "0,1 mg/mL (solução injetável)"
+    ],
+    "olanzapina": [
+        "5 mg (comprimido)",
+        "10 mg (comprimido)",
+        "30 mg (solução injetável)"
+    ],
+    "pamidronato dissódico": [
+        "60 mg (solução injetável)"
+    ],
+    "pancreatina": [
+        "10.000 UI (cápsula)",
+        "25.000 UI (cápsula)"
+    ],
+    "paricalcitol": [
+        "5 mcg/mL (solução injetável (ampola com 1 mL))"
+    ],
+    "penicilamina": [
+        "250 mg (cápsula)"
+    ],
+    "pravastatina sódica": [
+        "10 mg (comprimido)",
+        "20 mg (comprimido)",
+        "40 mg (comprimido)"
+    ],
+    "primidona": [
+        "100 mg (comprimido)",
+        "250 mg (comprimido)"
+    ],
+    "propionato de clobetasol": [
+        "0,5 mg/g (creme (bisnaga com 30 g))",
+        "0,5 mg/g (solução capilar (frasco com 50 g))"
+    ],
+    "ribavirina": [
+        "250 mg (cápsula)"
+    ],
+    "riluzol": [
+        "50 mg (comprimido)"
+    ],
+    "risedronato sódico": [
+        "5 mg (comprimido)",
+        "35 mg (comprimido)"
+    ],
+    "risperidona": [
+        "1 mg/mL (solução oral (frasco com 30 mL))",
+        "1 mg (comprimido)",
+        "2 mg (comprimido)",
+        "3 mg (comprimido)"
+    ],
+    "rituximabe": [
+        "10 mg/mL (solução injetável (frasco com 50 mL))"
+    ],
+    "rivastigmina": [
+        "1,5 mg (cápsula)",
+        "3 mg (cápsula)",
+        "4,5 mg (cápsula)",
+        "6 mg (cápsula)",
+        "2 mg/mL (solução oral (frasco com 120 mL))",
+        "9 mg (adesivo transdérmico)",
+        "18 mg (adesivo transdérmico)"
+    ],
+    "sacarato de hidróxido férrico": [
+        "20 mg/mL (solução injetável (frasco com 5 mL))"
+    ],
+    "secuquinumabe": [
+        "150 mg/mL (pó para solução injetável)"
+    ],
+    "sirolimo": [
+        "1 mg (comprimido)",
+        "2 mg (comprimido)"
+    ],
+    "sofosbuvir": [
+        "400 mg (comprimido)"
+    ],
+    "somatropina": [
+        "4 UI (pó para solução injetável (frasco-ampola))",
+        "12 UI (pó para solução injetável (frasco-ampola))",
+        "15 UI (pó para solução injetável (frasco-ampola))",
+        "16 UI (pó para solução injetável (frasco-ampola))",
+        "18 UI (pó para solução injetável (frasco-ampola))",
+        "24 UI (pó para solução injetável (frasco-ampola))",
+        "30 UI (pó para solução injetável (frasco-ampola))"
+    ],
+    "sulfassalazina": [
+        "500 mg (comprimido)"
+    ],
+    "sulfato de hidroxicloroquina": [
+        "400 mg (comprimido)"
+    ],
+    "sulfato de morfina": [
+        "10 mg/mL (solução injetável (ampola com 1 mL))",
+        "10 mg/mL (solução oral (frasco com 60 mL))",
+        "10 mg (comprimido)",
+        "30 mg (comprimido)",
+        "30 mg (cápsula de liberação prolongada)",
+        "60 mg (cápsula de liberação prolongada)",
+        "100 mg (cápsula de liberação prolongada)"
+    ],
+    "tacrolimo": [
+        "1 mg (cápsula)",
+        "5 mg (cápsula)"
+    ],
+    "tafamidis": [
+        "20 mg (cápsula)"
+    ],
+    "teriflunomida": [
+        "14 mg (comprimido)"
+    ],
+    "tobramicina": [
+        "300 mg (solução inalatória)"
+    ],
+    "tocilizumabe": [
+        "20 mg/mL (solução injetável (frasco com 4 mL))"
+    ],
+    "tofacitinibe": [
+        "5 mg (comprimido)"
+    ],
+    "tolcapona": [
+        "100 mg (comprimido)"
+    ],
+    "topiramato": [
+        "25 mg (comprimido)",
+        "50 mg (comprimido)",
+        "100 mg (comprimido)"
+    ],
+    "toxina botulínica A": [
+        "100 U (pó para solução injetável)",
+        "500 U (pó para solução injetável)"
+    ],
+    "travoprosta": [
+        "0,04 mg/mL (solução oftálmica (frasco com 2,5 mL))"
+    ],
+    "trientina": [
+        "250 mg (cápsula)"
+    ],
+    "triptorrelina": [
+        "3,75 mg (pó para suspensão injetável)",
+        "11,25 mg (pó para suspensão injetável)"
+    ],
+    "ustequinumabe": [
+        "45 mg (solução injetável)"
+    ],
+    "vigabatrina": [
+        "500 mg (comprimido)"
+    ],
+    "xinafoato de salmeterol": [
+        "50 mcg (aerossol bucal)",
+        "50 mcg (pó para inalação)"
+    ],
+    "ácido nicotínico": [
+        "250 mg (comprimido de liberação prolongada)",
+        "500 mg (comprimido de liberação prolongada)",
+        "750 mg (comprimido de liberação prolongada)"
+    ],
+    "ácido ursodesoxicólico": [
+        "50 mg (comprimido)",
+        "150 mg (comprimido)",
+        "300 mg (comprimido)"
+    ]
+}

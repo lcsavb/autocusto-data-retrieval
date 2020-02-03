@@ -1,4 +1,5 @@
 import csv
+import json
 
 medicamentos = {}
 
@@ -19,11 +20,12 @@ with open('csv_raw/medicamentos.csv', 'r') as arquivo_csv:
             medicamentos.update(novo_medicamento)
             n = n + 1
         else:
-            if nome == list(medicamentos.keys())[:-1]:         
+            if nome == list(medicamentos.keys())[-1]:         
                 medicamentos[nome] += apresentacao
             else:        
                 novo_medicamento = {nome: apresentacao}
                 medicamentos.update(novo_medicamento)
 
-with open('lista_medicamentos.txt', 'w') as arquivo_med:
-    arquivo_med.write(medicamentos)
+with open('lista_med.json', 'w') as lista_med:
+    lista_med.write(json.dumps(medicamentos, indent=4, 
+                sort_keys=True, ensure_ascii=False))
